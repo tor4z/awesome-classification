@@ -65,6 +65,8 @@
 
 * [ICML 2012] Predicting accurate probabilities with a ranking loss [paper](https://icml.cc/2012/papers/372.pdf)
 
+* [ICMLA 2021] Instance-based Label Smoothing For Better Calibrated Classification Networks [paper](https://arxiv.org/pdf/2110.05355v1.pdf) [code](https://github.com/mmaher22/instance-based-label-smoothing)
+
 ## Resources
 
 * Statistical Decision Theory and Bayesian Analysis [book](https://link.springer.com/book/10.1007/978-1-4757-4286-2)
