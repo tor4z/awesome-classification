@@ -13,3 +13,5 @@
 * [arXiv 2021] PVTv2: Improved Baselines with Pyramid Vision Transformer [paper](https://arxiv.org/pdf/2106.13797v4.pdf) [code](https://github.com/whai362/PVT)
 
 * [NIPS 2021] Global Filter Networks for Image Classification [paper](https://arxiv.org/pdf/2107.00645v1.pdf) [code](https://github.com/raoyongming/GFNet)
+
+* [NIPS 2021] Focal Self-attention for Local-Global Interactions in Vision Transformers [paper](https://arxiv.org/pdf/2107.00641v1.pdf) [code](https://github.com/microsoft/Focal-Transformer)
