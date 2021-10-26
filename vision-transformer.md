@@ -7,3 +7,5 @@
 * [PAMI 2021] P2T: Pyramid Pooling Transformer for Scene Understanding [paper](https://arxiv.org/pdf/2106.12011v3.pdf) [code](https://github.com/yuhuan-wu/P2T)
 
 * [arXiv 2021] VOLO: Vision Outlooker for Visual Recognition [paper](https://arxiv.org/pdf/2106.13112v2.pdf) [code](https://github.com/sail-sg/volo)
+
+* [arXiv 2021] PVTv2: Improved Baselines with Pyramid Vision Transformer [paper](https://arxiv.org/pdf/2106.13797v4.pdf) [code](https://github.com/whai362/PVT)
