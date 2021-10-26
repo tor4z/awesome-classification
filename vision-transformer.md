@@ -8,4 +8,6 @@
 
 * [arXiv 2021] VOLO: Vision Outlooker for Visual Recognition [paper](https://arxiv.org/pdf/2106.13112v2.pdf) [code](https://github.com/sail-sg/volo)
 
+* [ICCV 2021] Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions [paper](https://arxiv.org/pdf/2102.12122.pdf) [code](https://github.com/whai362/PVT)
+
 * [arXiv 2021] PVTv2: Improved Baselines with Pyramid Vision Transformer [paper](https://arxiv.org/pdf/2106.13797v4.pdf) [code](https://github.com/whai362/PVT)
