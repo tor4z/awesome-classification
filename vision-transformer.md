@@ -25,3 +25,5 @@
 * [ICCV 2021] Rethinking and Improving Relative Position Encoding for Vision Transformer [paper](https://arxiv.org/pdf/2107.14222v1.pdf) [code](https://github.com/microsoft/Cream/tree/main/iRPE)
 
 * [arXiv 2021]  CrossFormer: A Versatile Vision Transformer Based on Cross-scale Attention [paper](https://arxiv.org/pdf/2108.00154v2.pdf) [code](https://github.com/cheerss/CrossFormer)
+
+* [arXiv 2021] Training data-efficient image transformers & distillation through attention [paper](https://arxiv.org/pdf/2012.12877.pdf) [code](https://github.com/facebookresearch/deit)
