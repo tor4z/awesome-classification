@@ -15,3 +15,13 @@
 * [NIPS 2021] Global Filter Networks for Image Classification [paper](https://arxiv.org/pdf/2107.00645v1.pdf) [code](https://github.com/raoyongming/GFNet)
 
 * [NIPS 2021] Focal Self-attention for Local-Global Interactions in Vision Transformers [paper](https://arxiv.org/pdf/2107.00641v1.pdf) [code](https://github.com/microsoft/Focal-Transformer)
+
+* [ICCV 2021] AutoFormer: Searching Transformers for Visual Recognition [paper](https://arxiv.org/pdf/2107.00651v1.pdf) [code](https://github.com/microsoft/Cream)
+
+* [ICCV 2021] GLiT: Neural Architecture Search for Global and Local Image Transformer [paper](https://arxiv.org/pdf/2107.02960v3.pdf) [code](https://github.com/bychen515/GLiT)
+
+* [arXiv 2021] Visual Parser: Representing Part-whole Hierarchies with Transformers [paper](https://arxiv.org/pdf/2107.05790v1.pdf) [code](https://github.com/kevin-ssy/ViP)
+
+* [ICCV 2021] Rethinking and Improving Relative Position Encoding for Vision Transformer [paper](https://arxiv.org/pdf/2107.14222v1.pdf) [code](https://github.com/microsoft/Cream/tree/main/iRPE)
+
+* [arXiv 2021]  CrossFormer: A Versatile Vision Transformer Based on Cross-scale Attention [paper](https://arxiv.org/pdf/2108.00154v2.pdf) [code](https://github.com/cheerss/CrossFormer)
