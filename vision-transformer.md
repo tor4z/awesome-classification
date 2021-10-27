@@ -34,3 +34,14 @@
 * [ACL 2019] Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context [paper](https://aclanthology.org/P19-1285.pdf) [code](https://github.com/kimiyoung/transformer-xl)
 
 * [ICCV 2021] Rethinking and Improving Relative Position Encoding for Vision Transformer [paper](https://arxiv.org/pdf/2107.14222v1.pdf) [code](https://github.com/microsoft/Cream/tree/main/iRPE)
+
+
+## Attention
+
+* [NIPS 2019] Stand-Alone Self-Attention in Vision Models [paper](https://proceedings.neurips.cc/paper/2019/file/3416a75f4cea9109507cacd8e2f2aefc-Paper.pdf) [code](https://github.com/google-research/google-research/tree/master/standalone_self_attention_in_vision_models)
+
+* [ICCV 2019] Attention Augmented Convolutional Networks [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bello_Attention_Augmented_Convolutional_Networks_ICCV_2019_paper.pdf)
+
+* [CVPR 2020] Exploring Self-attention for Image Recognition [paper](https://jiaya.me/papers/selfatten_cvpr20.pdf)
+
+* [ECCV 2020] Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation [paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490103.pdf)
