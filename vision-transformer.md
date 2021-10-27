@@ -39,7 +39,7 @@
 
 ## Attention
 
-* [NIPS 2019] Stand-Alone Self-Attention in Vision Models [paper](https://proceedings.neurips.cc/paper/2019/file/3416a75f4cea9109507cacd8e2f2aefc-Paper.pdf) [code](https://github.com/google-research/google-research/tree/master/standalone_self_attention_in_vision_models)
+* [NIPS 2019] Stand-Alone Self-Attention in Vision Models [paper](https://proceedings.neurips.cc/paper/2019/file/3416a75f4cea9109507cacd8e2f2aefc-Paper.pdf) [code](https://github.com/google-research/google-research/tree/master/standalone_self_attention_in_vision_models) [code thirdparty](https://github.com/leaderj1001/Stand-Alone-Self-Attention)
 
 * [ICCV 2019] Attention Augmented Convolutional Networks [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bello_Attention_Augmented_Convolutional_Networks_ICCV_2019_paper.pdf)
 
