@@ -35,6 +35,7 @@
 
 * [ICCV 2021] Rethinking and Improving Relative Position Encoding for Vision Transformer [paper](https://arxiv.org/pdf/2107.14222v1.pdf) [code](https://github.com/microsoft/Cream/tree/main/iRPE)
 
+* [EMNLP 2020] Improve Transformer Models with Better Relative Position Embeddings [paper](https://arxiv.org/pdf/2009.13658.pdf)
 
 ## Attention
 
