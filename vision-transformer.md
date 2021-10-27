@@ -31,6 +31,6 @@
 
 * [ACL 2018] Self-Attention with Relative Position Representations [paper](https://arxiv.org/pdf/1803.02155.pdf)
 
-* [ACL 2019] Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context [paper](https://aclanthology.org/P19-1285.pdf)
+* [ACL 2019] Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context [paper](https://aclanthology.org/P19-1285.pdf) [code](https://github.com/kimiyoung/transformer-xl)
 
 * [ICCV 2021] Rethinking and Improving Relative Position Encoding for Vision Transformer [paper](https://arxiv.org/pdf/2107.14222v1.pdf) [code](https://github.com/microsoft/Cream/tree/main/iRPE)
