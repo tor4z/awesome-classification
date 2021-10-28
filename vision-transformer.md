@@ -58,7 +58,7 @@
 
 * [NIPS 2021] Global Filter Networks for Image Classification [paper](https://arxiv.org/pdf/2107.00645v1.pdf) [code](https://github.com/raoyongming/GFNet)
 
-* [arXiv 2021] FNet: Mixing Tokens with Fourier Transforms [paper](https://arxiv.org/pdf/2105.03824.pdf) [code](https://github.com/google-research/google-research/) [code-third-party](https://github.com/rishikksh20/FNet-pytorch)
+* [arXiv 2021] FNet: Mixing Tokens with Fourier Transforms [paper](https://arxiv.org/pdf/2105.03824.pdf) [code](https://github.com/google-research/google-research/) [code-thirdparty](https://github.com/rishikksh20/FNet-pytorch)
 
 ## Train a ViT
 
