@@ -62,6 +62,8 @@
 
 ## Linear transformers
 
+* [arXiv 2021] Vision Xformers: Efficient Attention for Image Classification [paper](https://arxiv.org/pdf/2107.02239v4.pdf) [code](https://github.com/pranavphoenix/VisionXformer)
+
 * [AAAI 2021] Nystromformer: A Nystrom-based Algorithm for Approximating Self-Attention [paper](https://arxiv.org/pdf/2102.03902.pdf) [code](https://github.com/mlpen/Nystromformer)
 
 * [ICML 2020]  Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention [paper](https://arxiv.org/pdf/2006.16236.pdf) [code](https://github.com/idiap/fast-transformers)
