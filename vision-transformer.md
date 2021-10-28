@@ -14,8 +14,6 @@
 
 * [arXiv 2021] PVTv2: Improved Baselines with Pyramid Vision Transformer [paper](https://arxiv.org/pdf/2106.13797v4.pdf) [code](https://github.com/whai362/PVT)
 
-* [NIPS 2021] Global Filter Networks for Image Classification [paper](https://arxiv.org/pdf/2107.00645v1.pdf) [code](https://github.com/raoyongming/GFNet)
-
 * [NIPS 2021] Focal Self-attention for Local-Global Interactions in Vision Transformers [paper](https://arxiv.org/pdf/2107.00641v1.pdf) [code](https://github.com/microsoft/Focal-Transformer)
 
 * [ICCV 2021] AutoFormer: Searching Transformers for Visual Recognition [paper](https://arxiv.org/pdf/2107.00651v1.pdf) [code](https://github.com/microsoft/Cream)
@@ -53,3 +51,17 @@
 ## Sampling
 
 * [ICCV 2021] Vision Transformer with Progressive Sampling [paper](https://arxiv.org/pdf/2108.01684.pdf) [code](https://github.com/yuexy/PS-ViT)
+
+## Non-attention
+
+* [arXiv 2021] MLP-Mixer: An all-MLP Architecture for Vision [paper](https://arxiv.org/pdf/2105.01601.pdf) [code](https://github.com/google-research/vision_transformer)
+
+* [NIPS 2021] Global Filter Networks for Image Classification [paper](https://arxiv.org/pdf/2107.00645v1.pdf) [code](https://github.com/raoyongming/GFNet)
+
+## Train a ViT
+
+* [arXiv 2021] How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers [paper](https://arxiv.org/pdf/2106.10270.pdf) [code](https://github.com/google-research/vision_transformer)
+
+## ViT vs. CNNs
+
+* [arXiv] When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations [paper](https://arxiv.org/pdf/2106.01548.pdf) [code](https://github.com/google-research/vision_transformer)
