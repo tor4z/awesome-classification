@@ -64,4 +64,4 @@
 
 ## ViT vs. CNNs
 
-* [arXiv] When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations [paper](https://arxiv.org/pdf/2106.01548.pdf) [code](https://github.com/google-research/vision_transformer)
+* [arXiv 2021] When Vision Transformers Outperform ResNets without Pretraining or Strong Data Augmentations [paper](https://arxiv.org/pdf/2106.01548.pdf) [code](https://github.com/google-research/vision_transformer)
