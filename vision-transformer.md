@@ -28,6 +28,7 @@
 
 * [arXiv 2021] Training data-efficient image transformers & distillation through attention [paper](https://arxiv.org/pdf/2012.12877.pdf) [code](https://github.com/facebookresearch/deit)
 
+* [ICCV 2021] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [paper](https://arxiv.org/pdf/2103.14030.pdf) [code](https://github.com/microsoft/Swin-Transformer)
 
 ## Position encoding
 
