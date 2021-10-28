@@ -40,6 +40,8 @@
 
 * [EMNLP 2020] Improve Transformer Models with Better Relative Position Embeddings [paper](https://arxiv.org/pdf/2009.13658.pdf)
 
+* [arXiv 2021] RoFormer: Enhanced Transformer with Rotary Position Embedding [paper](https://arxiv.org/pdf/2104.09864.pdf) [code](https://github.com/ZhuiyiTechnology/roformer)
+
 ## Attention
 
 * [NIPS 2019] Stand-Alone Self-Attention in Vision Models [paper](https://proceedings.neurips.cc/paper/2019/file/3416a75f4cea9109507cacd8e2f2aefc-Paper.pdf) [code](https://github.com/google-research/google-research/tree/master/standalone_self_attention_in_vision_models) [code-thirdparty](https://github.com/leaderj1001/Stand-Alone-Self-Attention)
