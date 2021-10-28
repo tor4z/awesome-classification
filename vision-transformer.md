@@ -63,8 +63,11 @@
 ## Linear transformers
 
 * [AAAI 2021] Nystromformer: A Nystrom-based Algorithm for Approximating Self-Attention [paper](https://arxiv.org/pdf/2102.03902.pdf) [code](https://github.com/mlpen/Nystromformer)
+
 * [ICML 2020]  Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention [paper](https://arxiv.org/pdf/2006.16236.pdf) [code](https://github.com/idiap/fast-transformers)
+
 * [ICLR 2021] Rethinking Attention with Performers [paper](https://arxiv.org/pdf/2009.14794.pdf) [code](https://github.com/google-research/google-research/tree/master/performer)
+
 * [arXiv 2020] Linformer: Self-Attention with Linear Complexity [code](https://arxiv.org/pdf/2006.04768.pdf)
 
 ## Train a ViT
