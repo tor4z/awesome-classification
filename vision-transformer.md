@@ -76,7 +76,7 @@
 
 * [ICLR 2021] Rethinking Attention with Performers [paper](https://arxiv.org/pdf/2009.14794.pdf) [code](https://github.com/google-research/google-research/tree/master/performer)
 
-* [arXiv 2020] Linformer: Self-Attention with Linear Complexity [code](https://arxiv.org/pdf/2006.04768.pdf) [code](https://github.com/tatp22/linformer-pytorch)
+* [arXiv 2020] Linformer: Self-Attention with Linear Complexity [paper](https://arxiv.org/pdf/2006.04768.pdf) [code](https://github.com/tatp22/linformer-pytorch)
 
 ## Inductive Biases [wiki](https://en.wikipedia.org/wiki/Inductive_bias)
 
