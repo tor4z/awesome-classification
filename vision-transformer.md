@@ -28,6 +28,8 @@
 
 * [ICCV 2021] Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [paper](https://arxiv.org/pdf/2103.14030.pdf) [code](https://github.com/microsoft/Swin-Transformer)
 
+* [ICLR 2021] Deformable DETR: Deformable Transformers for End-to-End Object Detection [paper](https://openreview.net/pdf?id=gZ9hCDWe6ke) [code](https://github.com/fundamentalvision/Deformable-DETR)
+
 ## Position encoding
 
 * [ACL 2018] Self-Attention with Relative Position Representations [paper](https://arxiv.org/pdf/1803.02155.pdf)
@@ -60,6 +62,8 @@
 
 * [arXiv 2021] FNet: Mixing Tokens with Fourier Transforms [paper](https://arxiv.org/pdf/2105.03824.pdf) [code](https://github.com/google-research/google-research/) [code-thirdparty](https://github.com/rishikksh20/FNet-pytorch)
 
+* [ICLR 2021] LambdaNetworks: Modeling long-range Interactions without Attention [paper](https://openreview.net/pdf?id=xTJEN-ggl1b) [code](https://github.com/leaderj1001/LambdaNetworks)
+
 ## Linear transformers
 
 * [arXiv 2021] Vision Xformers: Efficient Attention for Image Classification [paper](https://arxiv.org/pdf/2107.02239v4.pdf) [code](https://github.com/pranavphoenix/VisionXformer)
@@ -71,6 +75,18 @@
 * [ICLR 2021] Rethinking Attention with Performers [paper](https://arxiv.org/pdf/2009.14794.pdf) [code](https://github.com/google-research/google-research/tree/master/performer)
 
 * [arXiv 2020] Linformer: Self-Attention with Linear Complexity [code](https://arxiv.org/pdf/2006.04768.pdf) [code](https://github.com/tatp22/linformer-pytorch)
+
+## Inductive Biases
+
+* [arXiv 2021] Inductive Biases for Deep Learning of Higher-Level Cognition [paper](https://arxiv.org/pdf/2011.15091.pdf)
+
+* [ICLR 2021] What they do when in doubt: a study of inductive biases in seq2seq learners [paper](https://openreview.net/pdf?id=YmA86Zo-P_t)
+
+* [ICML 2021] Exploring Corruption Robustness: Inductive Biases in Vision Transformers and MLP-Mixers [paper](https://arxiv.org/pdf/2106.13122.pdf) [code](https://github.com/katelyn98/CorruptionRobustness)
+
+* [NIPS 2021] ViTAE: Vision Transformer Advanced by Exploring Intrinsic Inductive Bias [paper](https://arxiv.org/pdf/2106.03348) [code](https://github.com/Annbless/ViTAE)
+
+* [ICML 2021] ConViT: Improving Vision Transformers with Soft Convolutional Inductive Biases [paper](http://proceedings.mlr.press/v139/d-ascoli21a/d-ascoli21a.pdf) [code](https://github.com/facebookresearch/convit)
 
 ## Train a ViT
 
