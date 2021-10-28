@@ -76,7 +76,7 @@
 
 * [arXiv 2020] Linformer: Self-Attention with Linear Complexity [code](https://arxiv.org/pdf/2006.04768.pdf) [code](https://github.com/tatp22/linformer-pytorch)
 
-## Inductive Biases
+## Inductive Biases [wiki](https://en.wikipedia.org/wiki/Inductive_bias)
 
 * [arXiv 2021] Inductive Biases for Deep Learning of Higher-Level Cognition [paper](https://arxiv.org/pdf/2011.15091.pdf)
 
