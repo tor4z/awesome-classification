@@ -48,3 +48,7 @@
 * [CVPR 2020] Exploring Self-attention for Image Recognition [paper](https://jiaya.me/papers/selfatten_cvpr20.pdf)
 
 * [ECCV 2020] Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation [paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490103.pdf)
+
+## Sampling
+
+* [ICCV 2021] Vision Transformer with Progressive Sampling [paper](https://arxiv.org/pdf/2108.01684.pdf) [code](https://github.com/yuexy/PS-ViT)
