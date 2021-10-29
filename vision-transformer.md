@@ -101,3 +101,5 @@
 * [ICLR 2020] On the Relationship between Self-Attention and Convolutional Layers [paper](https://arxiv.org/pdf/1911.03584.pdf) [code](https://github.com/epfml/attention-cnn) [viz](https://epfml.github.io/attention-cnn/)
 
 * [EMNLP 2019] Transformer Dissection: A Unified Understanding of Transformer's Attention via the Lens of Kernel [paper](https://arxiv.org/pdf/1908.11775.pdf) [code](https://github.com/yaohungt/TransformerDissection)
+
+* [arXiv 2020] Convolution, attention and structure embedding [paper](https://arxiv.org/pdf/1905.01289.pdf)
