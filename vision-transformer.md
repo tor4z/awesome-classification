@@ -40,7 +40,7 @@
 
 * [EMNLP 2020] Improve Transformer Models with Better Relative Position Embeddings [paper](https://arxiv.org/pdf/2009.13658.pdf)
 
-* [arXiv 2021] RoFormer: Enhanced Transformer with Rotary Position Embedding [paper](https://arxiv.org/pdf/2104.09864.pdf) [code](https://github.com/ZhuiyiTechnology/roformer)
+* [arXiv 2021] RoFormer: Enhanced Transformer with Rotary Position Embedding [paper](https://arxiv.org/pdf/2104.09864.pdf) [code](https://github.com/ZhuiyiTechnology/roformer) [code-pytorch](https://github.com/JunnYu/RoFormer_pytorch)
 
 ## Attention
 
