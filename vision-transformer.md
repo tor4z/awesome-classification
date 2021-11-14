@@ -30,6 +30,28 @@
 
 * [ICLR 2021] Deformable DETR: Deformable Transformers for End-to-End Object Detection [paper](https://openreview.net/pdf?id=gZ9hCDWe6ke) [code](https://github.com/fundamentalvision/Deformable-DETR)
 
+* [ICCV 2021] Emerging Properties in Self-Supervised Vision Transformers [paper](https://arxiv.org/pdf/2104.14294.pdf) [code](https://github.com/facebookresearch/dino)
+
+* [arXiv 2021] Aggregating Nested Transformers [paper](https://arxiv.org/pdf/2105.12723.pdf) [code](https://github.com/google-research/nested-transformer)
+
+* [NIPS 2021] Twins: Revisiting the Design of Spatial Attention in Vision Transformers [paper](https://arxiv.org/pdf/2104.13840.pdf) [code](https://github.com/Meituan-AutoML/Twins/)
+
+* [ICCV 2021] LeViT: a Vision Transformer in ConvNet's Clothing for Faster Inference [paper](https://arxiv.org/pdf/2104.01136.pdf) [code](https://github.com/facebookresearch/LeViT)
+
+* [ICCV 2021] Rethinking Spatial Dimensions of Vision Transformers [paper](https://arxiv.org/pdf/2103.16302.pdf) [code](https://github.com/naver-ai/pit)
+
+* [arXiv 2021] Escaping the Big Data Paradigm with Compact Transformers [paper](https://arxiv.org/pdf/2104.05704.pdf) [code](https://github.com/SHI-Labs/Compact-Transformers)
+
+* [arXiv 2021] DeepViT: Towards Deeper Vision Transformer [paper](https://arxiv.org/pdf/2103.11886.pdf) [code](https://github.com/zhoudaquan/dvit_repo)
+
+* [ICCV 2021] CvT: Introducing Convolutions to Vision Transformers [paper](https://arxiv.org/pdf/2103.15808.pdf) [code](https://github.com/leoxiaobin/CvT)
+
+* [ICCV 2021] Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet [paper](https://arxiv.org/pdf/2101.11986.pdf) [code](https://github.com/yitu-opensource/T2T-ViT)
+
+* [ICCV 2021] CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification [paper](https://arxiv.org/pdf/2103.14899.pdf) [code](https://github.com/IBM/CrossViT)
+
+* [ICCV 2021] Going deeper with Image Transformers [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Touvron_Going_Deeper_With_Image_Transformers_ICCV_2021_paper.pdf) [code](https://github.com/facebookresearch/deit)
+
 ## Position encoding
 
 * [ACL 2018] Self-Attention with Relative Position Representations [paper](https://arxiv.org/pdf/1803.02155.pdf)
