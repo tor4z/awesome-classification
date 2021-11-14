@@ -133,3 +133,7 @@
 * [EMNLP 2019] Transformer Dissection: A Unified Understanding of Transformer's Attention via the Lens of Kernel [paper](https://arxiv.org/pdf/1908.11775.pdf) [code](https://github.com/yaohungt/TransformerDissection)
 
 * [arXiv 2020] Convolution, attention and structure embedding [paper](https://arxiv.org/pdf/1905.01289.pdf)
+
+## Transformer
+
+* [ICLR 2020] Are Transformers universal approximators of sequence-to-sequence functions? [paper](https://arxiv.org/pdf/1912.10077.pdf)
