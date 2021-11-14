@@ -58,7 +58,7 @@
 
 * [arXiv 2021] How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers [paper](https://arxiv.org/pdf/2106.10270v1.pdf)
 
-
+* [arXiv 2021] ResMLP: Feedforward networks for image classification with data-efficient training [paper](https://arxiv.org/pdf/2105.03404.pdf) [code](https://github.com/facebookresearch/deit)
 
 ## Position encoding
 
