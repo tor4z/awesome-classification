@@ -137,3 +137,8 @@
 ## Transformer
 
 * [ICLR 2020] Are Transformers universal approximators of sequence-to-sequence functions? [paper](https://arxiv.org/pdf/1912.10077.pdf)
+
+* [arXiv 2019] Transformer Dissection: A Unified Understanding of Transformer’s Attention via the Lens of Kernel [paper](https://arxiv.org/pdf/1908.11775.pdf)
+
+
+
