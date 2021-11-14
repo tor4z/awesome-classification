@@ -52,6 +52,14 @@
 
 * [ICCV 2021] Going deeper with Image Transformers [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Touvron_Going_Deeper_With_Image_Transformers_ICCV_2021_paper.pdf) [code](https://github.com/facebookresearch/deit)
 
+* [arXiv 2021] Adversarial Token Attacks on Vision Transformers [paper](https://arxiv.org/pdf/2110.04337.pdf)
+
+* [arXiv 2021] CMT: Convolutional Neural Networks Meet Vision Transformers [paper](https://arxiv.org/pdf/2107.06263v2.pdf) [code](https://github.com/wilile26811249/CMT_CNN-meet-Vision-Transformer)
+
+* [arXiv 2021] How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers [paper](https://arxiv.org/pdf/2106.10270v1.pdf)
+
+
+
 ## Position encoding
 
 * [ACL 2018] Self-Attention with Relative Position Representations [paper](https://arxiv.org/pdf/1803.02155.pdf)
