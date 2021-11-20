@@ -57,6 +57,8 @@
 
 * [ICLR 2019] Like What You Like: Knowledge Distill via Neuron Selectivity Transfer [paper](https://arxiv.org/pdf/1707.01219.pdf)
 
+* [arXiv 2019] Learning Deep Representations with Probabilistic Knowledge Transfer [paper](https://arxiv.org/pdf/1803.10837.pdf) [code](https://github.com/passalis/probabilistic_kt)
+
 
 ## Transfer learning
 
