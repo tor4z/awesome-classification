@@ -53,7 +53,7 @@
 
 * [arXiv 2018] Self-supervised Knowledge Distillation Using Singular Value Decomposition [paper](https://arxiv.org/pdf/1807.06819.pdf) [code](https://github.com/sseung0703/SSKD)
 
-* [ICLR 2016] Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer [paper](https://arxiv.org/pdf/1612.03928.pdf) [code](https://github.com/szagoruyko/attention-transfer)
+* [ICLR 2017] Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer [paper](https://arxiv.org/pdf/1612.03928.pdf) [code](https://github.com/szagoruyko/attention-transfer)
 
 ## Transfer learning
 
