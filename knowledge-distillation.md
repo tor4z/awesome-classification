@@ -49,6 +49,9 @@
 
 * [ICCV 2019] Similarity-Preserving Knowledge Distillation [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tung_Similarity-Preserving_Knowledge_Distillation_ICCV_2019_paper.pdf)
 
+* [ICCV 2019] Correlation Congruence for Knowledge Distillation [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Peng_Correlation_Congruence_for_Knowledge_Distillation_ICCV_2019_paper.pdf)
+
+
 ## Transfer learning
 
 * [NIPS 2020] What is being transferred in transfer learning? [paper](https://arxiv.org/pdf/2008.11687.pdf) [code](https://github.com/google-research/understanding-transfer-learning)
