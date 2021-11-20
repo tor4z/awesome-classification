@@ -63,6 +63,8 @@
 
 * [NIPS 2018] Paraphrasing Complex Network: Network Compression via Factor Transfer [paper](https://arxiv.org/pdf/1802.04977.pdf) [code](https://github.com/Jangho-Kim/Factor-Transfer-pytorch)
 
+* [AAAI 2019] Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons [paper](https://arxiv.org/pdf/1811.03233.pdf) [code](https://github.com/bhheo/AB_distillation)
+
 ## Transfer learning
 
 * [NIPS 2020] What is being transferred in transfer learning? [paper](https://arxiv.org/pdf/2008.11687.pdf) [code](https://github.com/google-research/understanding-transfer-learning)
