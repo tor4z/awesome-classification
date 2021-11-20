@@ -65,6 +65,8 @@
 
 * [AAAI 2019] Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons [paper](https://arxiv.org/pdf/1811.03233.pdf) [code](https://github.com/bhheo/AB_distillation)
 
+* [CVPR 2019] Variational Information Distillation for Knowledge Transfer [paper](https://arxiv.org/pdf/1904.05835.pdf) [code](https://github.com/ssahn0215/variational-information-distillation)
+
 ## Transfer learning
 
 * [NIPS 2020] What is being transferred in transfer learning? [paper](https://arxiv.org/pdf/2008.11687.pdf) [code](https://github.com/google-research/understanding-transfer-learning)
