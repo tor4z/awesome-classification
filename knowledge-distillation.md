@@ -55,6 +55,9 @@
 
 * [ICLR 2017] Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer [paper](https://arxiv.org/pdf/1612.03928.pdf) [code](https://github.com/szagoruyko/attention-transfer)
 
+* [ICLR 2019] Like What You Like: Knowledge Distill via Neuron Selectivity Transfer [paper](https://arxiv.org/pdf/1707.01219.pdf)
+
+
 ## Transfer learning
 
 * [NIPS 2020] What is being transferred in transfer learning? [paper](https://arxiv.org/pdf/2008.11687.pdf) [code](https://github.com/google-research/understanding-transfer-learning)
