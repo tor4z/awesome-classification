@@ -51,6 +51,8 @@
 
 * [ICCV 2019] Correlation Congruence for Knowledge Distillation [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Peng_Correlation_Congruence_for_Knowledge_Distillation_ICCV_2019_paper.pdf)
 
+* [arXiv 2018] Self-supervised Knowledge Distillation Using Singular Value Decomposition [paper](https://arxiv.org/pdf/1807.06819.pdf) [code](https://github.com/sseung0703/SSKD)
+
 
 ## Transfer learning
 
