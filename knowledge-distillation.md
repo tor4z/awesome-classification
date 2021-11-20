@@ -59,6 +59,7 @@
 
 * [arXiv 2019] Learning Deep Representations with Probabilistic Knowledge Transfer [paper](https://arxiv.org/pdf/1803.10837.pdf) [code](https://github.com/passalis/probabilistic_kt)
 
+* [CVPR 2017] A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yim_A_Gift_From_CVPR_2017_paper.pdf)
 
 ## Transfer learning
 
