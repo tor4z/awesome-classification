@@ -61,6 +61,8 @@
 
 * [CVPR 2017] A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yim_A_Gift_From_CVPR_2017_paper.pdf)
 
+* [NIPS 2018] Paraphrasing Complex Network: Network Compression via Factor Transfer [paper](https://arxiv.org/pdf/1802.04977.pdf) [code](https://github.com/Jangho-Kim/Factor-Transfer-pytorch)
+
 ## Transfer learning
 
 * [NIPS 2020] What is being transferred in transfer learning? [paper](https://arxiv.org/pdf/2008.11687.pdf) [code](https://github.com/google-research/understanding-transfer-learning)
