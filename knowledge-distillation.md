@@ -45,6 +45,8 @@
 * [arXiv 2021] Distilling a Powerful Student Model via Online Knowledge Distillation [paper](https://arxiv.org/pdf/2103.14473v2.pdf) [code](https://github.com/SJLeo/FFSD)
 
 
+* [CVPR 2019] Relational Knowledge Distillation [paper](https://arxiv.org/pdf/1904.05068.pdf) [code](https://github.com/lenscloth/RKD)
+
 ## Transfer learning
 
 * [NIPS 2020] What is being transferred in transfer learning? [paper](https://arxiv.org/pdf/2008.11687.pdf) [code](https://github.com/google-research/understanding-transfer-learning)
