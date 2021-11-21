@@ -7,3 +7,7 @@
 * [NIPS 2016] InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [paper](https://arxiv.org/pdf/1606.03657.pdf)
 
 * [PMLR 2018] Mutual Information Neural Estimation [paper](https://arxiv.org/pdf/1801.04062.pdf)
+
+* [arXiv 2014] Notes on Noise Contrastive Estimation and Negative Sampling [paper](https://arxiv.org/pdf/1410.8251.pdf)
+
+* [ICML 2012] A fast and simple algorithm for training neural probabilistic language models [paper](https://arxiv.org/ftp/arxiv/papers/1206/1206.6426.pdf)
