@@ -11,3 +11,5 @@
 ## Resources
 
 * Applied Time Series Analysis [link](https://online.stat.psu.edu/stat510/)
+
+* Forecasting: Principles and Practice [link](https://otexts.com/fpp2/)
