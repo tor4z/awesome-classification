@@ -11,3 +11,5 @@
 * [arXiv 2014] Notes on Noise Contrastive Estimation and Negative Sampling [paper](https://arxiv.org/pdf/1410.8251.pdf) [code](https://github.com/Stonesjtu/Pytorch-NCE)
 
 * [ICML 2012] A fast and simple algorithm for training neural probabilistic language models [paper](https://arxiv.org/ftp/arxiv/papers/1206/1206.6426.pdf)
+
+* [ICASSP 2015] Recurrent neural network language model training with noise contrastive estimation for speech recognition [paper](http://mi.eng.cam.ac.uk/projects/cued-rnnlm/papers/ICASSP2015-rnnlm-nce.pdf)
