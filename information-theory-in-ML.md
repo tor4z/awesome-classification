@@ -15,3 +15,5 @@
 * [ICASSP 2015] Recurrent neural network language model training with noise contrastive estimation for speech recognition [paper](http://mi.eng.cam.ac.uk/projects/cued-rnnlm/papers/ICASSP2015-rnnlm-nce.pdf)
 
 * [ICLR 2015] On distinguishability criteria for estimating generative models [paper](https://arxiv.org/pdf/1412.6515.pdf)
+
+* [CVPR 2018] Unsupervised Feature Learning via Non-Parametric Instance Discrimination [paper](https://arxiv.org/pdf/1805.01978.pdf)
