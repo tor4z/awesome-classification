@@ -5,3 +5,5 @@
 * [ICLR 2019] Learning deep representations by mutual information estimation and maximization [paper](https://arxiv.org/pdf/1808.06670.pdf) [code](https://github.com/rdevon/DIM)
 
 * [PMLR 2018] Mutual Information Neural Estimation [paper](https://arxiv.org/pdf/1801.04062.pdf)
+
+* [CVPR 2018] Unsupervised Feature Learning via Non-Parametric Instance Discrimination [paper](https://arxiv.org/pdf/1805.01978.pdf)
