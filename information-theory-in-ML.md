@@ -5,3 +5,5 @@
 * [JMLR 2012] Noise-Contrastive Estimation of Unnormalized Statistical Models, with Applications to Natural Image Statistics [paper](https://www.jmlr.org/papers/volume13/gutmann12a/gutmann12a.pdf)
 
 * [NIPS 2016] InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [paper](https://arxiv.org/pdf/1606.03657.pdf)
+
+* [PMLR 2018] Mutual Information Neural Estimation [paper](https://arxiv.org/pdf/1801.04062.pdf)
