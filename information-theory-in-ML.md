@@ -17,3 +17,5 @@
 * [ICLR 2015] On distinguishability criteria for estimating generative models [paper](https://arxiv.org/pdf/1412.6515.pdf)
 
 * [CVPR 2018] Unsupervised Feature Learning via Non-Parametric Instance Discrimination [paper](https://arxiv.org/pdf/1805.01978.pdf)
+
+* [NIPS 2013] Learning word embeddings efficiently with noise-contrastive estimation [paper](https://proceedings.neurips.cc/paper/2013/file/db2b4182156b2f1f817860ac9f409ad7-Paper.pdf)
