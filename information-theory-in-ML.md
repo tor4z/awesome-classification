@@ -1,4 +1,4 @@
-# Information Theory in machine learning
+# Information theory in machine learning
 
 * [arXiv 2019] Representation Learning with Contrastive Predictive Coding [paper](https://arxiv.org/pdf/1807.03748.pdf)
 
