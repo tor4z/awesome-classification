@@ -134,6 +134,9 @@
 
 * [arXiv 2020] Convolution, attention and structure embedding [paper](https://arxiv.org/pdf/1905.01289.pdf)
 
+* [arXiv 2021] Do Vision Transformers See Like Convolutional Neural Networks? [paper](https://arxiv.org/pdf/2108.08810.pdf)
+
+
 ## Transformer
 
 * [ICLR 2020] Are Transformers universal approximators of sequence-to-sequence functions? [paper](https://arxiv.org/pdf/1912.10077.pdf)
